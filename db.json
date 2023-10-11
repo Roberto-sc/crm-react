@@ -1,0 +1,33 @@
+{
+  "clientes": [
+    {
+      "id": 2,
+      "nombre": "Karen",
+      "telefono": 138198313,
+      "email": "karen@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "Roberto",
+      "empresa": "HCO",
+      "email": "luis.solanocenteno@ucr.ac.cr",
+      "telefono": "7209666",
+      "notas": "nada",
+      "id": 6
+    }
+  ]
+}
